@@ -1,0 +1,53 @@
+header {
+    width: 100vw; 
+    height: 10vh; 
+    background-color: gray;
+    padding: 25px; 
+
+}
+
+.row1 {
+    width: 80px; 
+    height: 80px; 
+    background-color: blue;
+    margin: 10px;
+}
+
+.row-2 {
+    width: 100vw;
+    height: 25vh;
+    background-color: white;
+
+}
+
+.row-2 p {
+    text-align: center;
+    font-size: 1.25rem;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.row-3 {
+    width: 100vw;
+    height: 15vh;
+    background-color: cornflowerblue;
+}
+
+.row-4 {
+    width: 100vw;
+    height: 15vh; 
+    background-color:lightseagreen;
+
+}
+
+.row-5 {
+    width: 100vw;
+    height: 15vh;
+    background-color: yellowgreen;
+}
+
+.row-6 {
+    width: 100vw; 
+    height: 15vh; 
+    background-color: yellow;
+}
